@@ -1,6 +1,6 @@
 Project Description: 
 A web app (which has a search engine) for people who want to sing along with their favorite singers. 
-The seach engine takes a string as an input.
+The search engine takes a string as an input.
 If a song with the given name exists, a video from youtube will be displayed on the left-hand side of the web browser, and the lyrics will be displayed on the right-hand side.
 Otherwise, the search engine displays an error.
 
